@@ -3,7 +3,7 @@ import numpy as np
 from draw_contours import getContours
 
 # READ THE ORIGINAL IMAGE TO BE PROCESSED
-img = cv2.imread("image2.jpg")
+img = cv2.imread("TASK 1/image1.jpg")
 imgContour = img.copy()
 imgBlur = cv2.GaussianBlur(img, (5, 5), 1)
 imgGray = cv2.cvtColor(imgBlur, cv2.COLOR_BGR2GRAY)
