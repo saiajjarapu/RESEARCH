@@ -6,10 +6,8 @@ import numpy as np
 src_img = cv2.imread("TASK 2/Science_irhand.jpg")
 imgContour = src_img.copy()
 
-gray = cv2.cvtColor(src_img, cv2.COLOR_BGR2GRAY)
 hsv = cv2.cvtColor(src_img, cv2.COLOR_BGR2HSV)
 
-imgGray = Image.fromarray(gray)
 imghsv = Image.fromarray(hsv)
 
 pixel_info = imghsv.load()
