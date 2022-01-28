@@ -2,7 +2,7 @@ import cv2
 
 def getContours(img, imgContour):
     contours, heirachy = cv2.findContours(img, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
-    
+
     for c in contours:
         area = cv2.contourArea(c)
         if area > 900:
