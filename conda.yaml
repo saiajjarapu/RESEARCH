@@ -1,0 +1,23 @@
+name: vision-damage-classification
+dependencies:
+- python
+- pip
+- pytorch::cpuonly
+- pytorch::pytorch
+- pytorch::torchaudio
+- pytorch::torchvision
+- pip:
+  - black[jupyter]
+  - flake8
+  - imageio
+  - matplotlib
+  - numpy
+  - opencv-python
+  - pandas
+  - pandas-stubs
+  - Pillow
+  - SciencePlots
+  - scikit-image
+  - scikit-learn
+  - seaborn
+  - tqdm
