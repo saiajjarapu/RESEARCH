@@ -1,0 +1,5333 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "__via_region_id__",
+                "region_color": "Damage",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "trainingset_03102022"
+        }
+    },
+    "_via_img_metadata": {
+        "BDCB2668.JPG1199282": {
+            "filename": "BDCB2668.JPG",
+            "size": 1199282,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            532,
+                            574,
+                            689,
+                            729,
+                            726,
+                            710,
+                            635,
+                            561,
+                            520
+                        ],
+                        "all_points_y": [
+                            593,
+                            565,
+                            562,
+                            606,
+                            709,
+                            761,
+                            777,
+                            780,
+                            748
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            274,
+                            315,
+                            346,
+                            351,
+                            346,
+                            304,
+                            267
+                        ],
+                        "all_points_y": [
+                            634,
+                            622,
+                            634,
+                            676,
+                            707,
+                            712,
+                            691
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            415,
+                            510,
+                            584,
+                            606,
+                            603,
+                            573,
+                            470,
+                            422,
+                            407,
+                            399
+                        ],
+                        "all_points_y": [
+                            852,
+                            829,
+                            836,
+                            892,
+                            997,
+                            1029,
+                            1042,
+                            1034,
+                            1015,
+                            932
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "BPZP2650.JPG1329017": {
+            "filename": "BPZP2650.JPG",
+            "size": 1329017,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            899,
+                            938,
+                            1018,
+                            1051,
+                            1050,
+                            1022,
+                            990,
+                            909,
+                            890
+                        ],
+                        "all_points_y": [
+                            807,
+                            774,
+                            776,
+                            800,
+                            880,
+                            932,
+                            952,
+                            957,
+                            902
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            703,
+                            739,
+                            758,
+                            748,
+                            712,
+                            696
+                        ],
+                        "all_points_y": [
+                            874,
+                            867,
+                            889,
+                            928,
+                            935,
+                            925
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            810,
+                            857,
+                            916,
+                            936,
+                            944,
+                            948,
+                            921,
+                            881,
+                            834,
+                            816,
+                            794
+                        ],
+                        "all_points_y": [
+                            1041,
+                            1023,
+                            1019,
+                            1021,
+                            1060,
+                            1113,
+                            1142,
+                            1157,
+                            1161,
+                            1161,
+                            1108
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "CBPN5287.JPG1263075": {
+            "filename": "CBPN5287.JPG",
+            "size": 1263075,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            512,
+                            533,
+                            581,
+                            635,
+                            676,
+                            676,
+                            673,
+                            655,
+                            580,
+                            528,
+                            512
+                        ],
+                        "all_points_y": [
+                            706,
+                            686,
+                            680,
+                            694,
+                            720,
+                            783,
+                            838,
+                            865,
+                            860,
+                            852,
+                            776
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            339,
+                            364,
+                            393,
+                            403,
+                            389,
+                            362,
+                            338
+                        ],
+                        "all_points_y": [
+                            713,
+                            707,
+                            716,
+                            747,
+                            781,
+                            786,
+                            771
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            442,
+                            464,
+                            522,
+                            581,
+                            613,
+                            615,
+                            605,
+                            586,
+                            528,
+                            470,
+                            439,
+                            441
+                        ],
+                        "all_points_y": [
+                            928,
+                            903,
+                            903,
+                            909,
+                            928,
+                            970,
+                            1048,
+                            1063,
+                            1063,
+                            1053,
+                            1041,
+                            982
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "CUXF7568.JPG1289563": {
+            "filename": "CUXF7568.JPG",
+            "size": 1289563,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            506,
+                            539,
+                            665,
+                            697,
+                            709,
+                            707,
+                            689,
+                            641,
+                            542,
+                            504
+                        ],
+                        "all_points_y": [
+                            676,
+                            631,
+                            629,
+                            655,
+                            726,
+                            800,
+                            841,
+                            845,
+                            839,
+                            778
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            286,
+                            316,
+                            348,
+                            365,
+                            360,
+                            320,
+                            284,
+                            283
+                        ],
+                        "all_points_y": [
+                            718,
+                            703,
+                            707,
+                            744,
+                            770,
+                            786,
+                            774,
+                            741
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            428,
+                            449,
+                            512,
+                            603,
+                            615,
+                            618,
+                            606,
+                            516,
+                            442,
+                            422
+                        ],
+                        "all_points_y": [
+                            916,
+                            897,
+                            896,
+                            902,
+                            961,
+                            1037,
+                            1081,
+                            1086,
+                            1068,
+                            993
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DJZR2335.JPG1255849": {
+            "filename": "DJZR2335.JPG",
+            "size": 1255849,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            393,
+                            426,
+                            478,
+                            554,
+                            578,
+                            589,
+                            584,
+                            576,
+                            499,
+                            436,
+                            404
+                        ],
+                        "all_points_y": [
+                            673,
+                            641,
+                            639,
+                            638,
+                            655,
+                            720,
+                            805,
+                            845,
+                            844,
+                            835,
+                            770
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            213,
+                            228,
+                            254,
+                            268,
+                            274,
+                            245,
+                            222,
+                            207
+                        ],
+                        "all_points_y": [
+                            712,
+                            700,
+                            705,
+                            722,
+                            763,
+                            776,
+                            771,
+                            742
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            336,
+                            358,
+                            422,
+                            487,
+                            525,
+                            526,
+                            525,
+                            510,
+                            449,
+                            390,
+                            344,
+                            329
+                        ],
+                        "all_points_y": [
+                            913,
+                            892,
+                            883,
+                            902,
+                            944,
+                            987,
+                            1025,
+                            1061,
+                            1070,
+                            1060,
+                            1045,
+                            1005
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "DTEQ0974.JPG1212961": {
+            "filename": "DTEQ0974.JPG",
+            "size": 1212961,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            551,
+                            589,
+                            687,
+                            739,
+                            742,
+                            735,
+                            720,
+                            636,
+                            564,
+                            542
+                        ],
+                        "all_points_y": [
+                            734,
+                            706,
+                            713,
+                            732,
+                            803,
+                            874,
+                            900,
+                            916,
+                            905,
+                            839
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            302,
+                            326,
+                            365,
+                            375,
+                            368,
+                            346,
+                            315,
+                            303
+                        ],
+                        "all_points_y": [
+                            793,
+                            780,
+                            786,
+                            823,
+                            855,
+                            864,
+                            851,
+                            838
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            446,
+                            499,
+                            586,
+                            619,
+                            649,
+                            665,
+                            658,
+                            615,
+                            551,
+                            480,
+                            441,
+                            442
+                        ],
+                        "all_points_y": [
+                            999,
+                            976,
+                            971,
+                            973,
+                            1019,
+                            1057,
+                            1115,
+                            1150,
+                            1161,
+                            1157,
+                            1108,
+                            1055
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "EAOT1795.JPG1210788": {
+            "filename": "EAOT1795.JPG",
+            "size": 1210788,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            449,
+                            473,
+                            542,
+                            629,
+                            654,
+                            649,
+                            645,
+                            549,
+                            483,
+                            451,
+                            448
+                        ],
+                        "all_points_y": [
+                            603,
+                            573,
+                            561,
+                            571,
+                            619,
+                            706,
+                            773,
+                            789,
+                            780,
+                            757,
+                            674
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            225,
+                            259,
+                            304,
+                            309,
+                            309,
+                            304,
+                            281,
+                            236
+                        ],
+                        "all_points_y": [
+                            642,
+                            631,
+                            635,
+                            670,
+                            713,
+                            731,
+                            734,
+                            729
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            351,
+                            394,
+                            512,
+                            560,
+                            558,
+                            554,
+                            475,
+                            375,
+                            362
+                        ],
+                        "all_points_y": [
+                            883,
+                            848,
+                            847,
+                            870,
+                            945,
+                            1019,
+                            1048,
+                            1031,
+                            971
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "EMGT1594.JPG1265286": {
+            "filename": "EMGT1594.JPG",
+            "size": 1265286,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            319,
+                            361,
+                            399,
+                            399,
+                            371,
+                            323
+                        ],
+                        "all_points_y": [
+                            863,
+                            842,
+                            854,
+                            907,
+                            932,
+                            926
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            555,
+                            609,
+                            684,
+                            719,
+                            741,
+                            732,
+                            718,
+                            664,
+                            600,
+                            557
+                        ],
+                        "all_points_y": [
+                            806,
+                            786,
+                            787,
+                            803,
+                            842,
+                            906,
+                            948,
+                            963,
+                            957,
+                            948
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            452,
+                            506,
+                            590,
+                            641,
+                            657,
+                            661,
+                            641,
+                            578,
+                            486,
+                            448
+                        ],
+                        "all_points_y": [
+                            1041,
+                            1016,
+                            1015,
+                            1019,
+                            1068,
+                            1123,
+                            1167,
+                            1184,
+                            1180,
+                            1121
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "FIKX6943.JPG1202934": {
+            "filename": "FIKX6943.JPG",
+            "size": 1202934,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            316,
+                            354,
+                            418,
+                            449,
+                            462,
+                            462,
+                            439,
+                            345,
+                            313
+                        ],
+                        "all_points_y": [
+                            576,
+                            554,
+                            557,
+                            567,
+                            623,
+                            681,
+                            716,
+                            718,
+                            649
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            133,
+                            158,
+                            180,
+                            193,
+                            191,
+                            159,
+                            129
+                        ],
+                        "all_points_y": [
+                            619,
+                            613,
+                            619,
+                            649,
+                            686,
+                            696,
+                            671
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            252,
+                            281,
+                            342,
+                            383,
+                            393,
+                            396,
+                            378,
+                            335,
+                            268,
+                            251
+                        ],
+                        "all_points_y": [
+                            809,
+                            796,
+                            796,
+                            806,
+                            864,
+                            935,
+                            979,
+                            986,
+                            971,
+                            894
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "GQLO7587.JPG1235303": {
+            "filename": "GQLO7587.JPG",
+            "size": 1235303,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            577,
+                            607,
+                            673,
+                            735,
+                            751,
+                            745,
+                            718,
+                            619,
+                            574,
+                            571
+                        ],
+                        "all_points_y": [
+                            760,
+                            736,
+                            728,
+                            739,
+                            807,
+                            871,
+                            906,
+                            915,
+                            886,
+                            812
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            342,
+                            371,
+                            410,
+                            425,
+                            419,
+                            365,
+                            341,
+                            331
+                        ],
+                        "all_points_y": [
+                            810,
+                            802,
+                            810,
+                            844,
+                            868,
+                            878,
+                            864,
+                            834
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            484,
+                            513,
+                            596,
+                            653,
+                            661,
+                            653,
+                            645,
+                            593,
+                            529,
+                            487
+                        ],
+                        "all_points_y": [
+                            1012,
+                            987,
+                            983,
+                            994,
+                            1035,
+                            1098,
+                            1122,
+                            1125,
+                            1126,
+                            1077
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "GWYU5940.JPG1139349": {
+            "filename": "GWYU5940.JPG",
+            "size": 1139349,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            384,
+                            407,
+                            467,
+                            526,
+                            581,
+                            576,
+                            574,
+                            554,
+                            496,
+                            442,
+                            397,
+                            384
+                        ],
+                        "all_points_y": [
+                            591,
+                            562,
+                            549,
+                            557,
+                            589,
+                            664,
+                            731,
+                            767,
+                            770,
+                            767,
+                            752,
+                            676
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            139,
+                            159,
+                            194,
+                            212,
+                            216,
+                            219,
+                            187,
+                            167,
+                            145
+                        ],
+                        "all_points_y": [
+                            631,
+                            619,
+                            615,
+                            626,
+                            660,
+                            684,
+                            693,
+                            700,
+                            676
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            281,
+                            317,
+                            367,
+                            446,
+                            465,
+                            470,
+                            446,
+                            397,
+                            315,
+                            280,
+                            270
+                        ],
+                        "all_points_y": [
+                            880,
+                            844,
+                            836,
+                            844,
+                            896,
+                            967,
+                            1022,
+                            1044,
+                            1041,
+                            992,
+                            942
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "GXFF6672.JPG1188114": {
+            "filename": "GXFF6672.JPG",
+            "size": 1188114,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            502,
+                            519,
+                            580,
+                            655,
+                            690,
+                            694,
+                            681,
+                            634,
+                            541,
+                            516
+                        ],
+                        "all_points_y": [
+                            586,
+                            552,
+                            542,
+                            555,
+                            594,
+                            667,
+                            723,
+                            735,
+                            742,
+                            720
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            245,
+                            257,
+                            293,
+                            329,
+                            339,
+                            326,
+                            271,
+                            246
+                        ],
+                        "all_points_y": [
+                            625,
+                            602,
+                            600,
+                            607,
+                            658,
+                            690,
+                            697,
+                            670
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            396,
+                            418,
+                            449,
+                            512,
+                            568,
+                            594,
+                            603,
+                            599,
+                            590,
+                            568,
+                            512,
+                            435,
+                            400,
+                            393
+                        ],
+                        "all_points_y": [
+                            870,
+                            829,
+                            819,
+                            816,
+                            822,
+                            842,
+                            894,
+                            931,
+                            984,
+                            1012,
+                            1032,
+                            1022,
+                            990,
+                            939
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "HBSD9108.JPG1200437": {
+            "filename": "HBSD9108.JPG",
+            "size": 1200437,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            525,
+                            544,
+                            616,
+                            667,
+                            696,
+                            707,
+                            699,
+                            678,
+                            596,
+                            535,
+                            522
+                        ],
+                        "all_points_y": [
+                            805,
+                            768,
+                            764,
+                            773,
+                            802,
+                            864,
+                            921,
+                            948,
+                            957,
+                            942,
+                            886
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            435,
+                            457,
+                            512,
+                            587,
+                            609,
+                            610,
+                            605,
+                            554,
+                            477,
+                            441
+                        ],
+                        "all_points_y": [
+                            1041,
+                            1019,
+                            1009,
+                            1016,
+                            1047,
+                            1097,
+                            1145,
+                            1166,
+                            1157,
+                            1103
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            289,
+                            312,
+                            354,
+                            369,
+                            380,
+                            382,
+                            363,
+                            331,
+                            298
+                        ],
+                        "all_points_y": [
+                            831,
+                            808,
+                            809,
+                            826,
+                            849,
+                            889,
+                            908,
+                            909,
+                            902
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "HFID2445.JPG1220696": {
+            "filename": "HFID2445.JPG",
+            "size": 1220696,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            541,
+                            565,
+                            631,
+                            691,
+                            718,
+                            715,
+                            705,
+                            671,
+                            596,
+                            552,
+                            536
+                        ],
+                        "all_points_y": [
+                            757,
+                            723,
+                            716,
+                            719,
+                            765,
+                            819,
+                            878,
+                            902,
+                            905,
+                            890,
+                            832
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            468,
+                            493,
+                            578,
+                            620,
+                            639,
+                            635,
+                            602,
+                            529,
+                            460,
+                            460
+                        ],
+                        "all_points_y": [
+                            1010,
+                            981,
+                            970,
+                            971,
+                            1015,
+                            1089,
+                            1118,
+                            1138,
+                            1121,
+                            1061
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            323,
+                            338,
+                            383,
+                            408,
+                            398,
+                            375,
+                            332
+                        ],
+                        "all_points_y": [
+                            826,
+                            789,
+                            788,
+                            823,
+                            860,
+                            878,
+                            871
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "HGXB4133.JPG1262358": {
+            "filename": "HGXB4133.JPG",
+            "size": 1262358,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            532,
+                            554,
+                            610,
+                            677,
+                            722,
+                            722,
+                            719,
+                            696,
+                            593,
+                            538,
+                            533
+                        ],
+                        "all_points_y": [
+                            703,
+                            674,
+                            657,
+                            661,
+                            696,
+                            760,
+                            823,
+                            864,
+                            857,
+                            836,
+                            764
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            445,
+                            499,
+                            575,
+                            617,
+                            630,
+                            630,
+                            624,
+                            546,
+                            479,
+                            448
+                        ],
+                        "all_points_y": [
+                            965,
+                            948,
+                            943,
+                            957,
+                            1013,
+                            1074,
+                            1104,
+                            1115,
+                            1115,
+                            1062
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            291,
+                            311,
+                            340,
+                            362,
+                            362,
+                            334,
+                            308,
+                            292
+                        ],
+                        "all_points_y": [
+                            757,
+                            738,
+                            737,
+                            760,
+                            789,
+                            805,
+                            806,
+                            789
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "HYNO0900.JPG1181506": {
+            "filename": "HYNO0900.JPG",
+            "size": 1181506,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            709,
+                            734,
+                            799,
+                            852,
+                            873,
+                            876,
+                            867,
+                            842,
+                            760,
+                            719
+                        ],
+                        "all_points_y": [
+                            829,
+                            793,
+                            786,
+                            781,
+                            815,
+                            863,
+                            916,
+                            936,
+                            948,
+                            921
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            620,
+                            652,
+                            751,
+                            776,
+                            778,
+                            770,
+                            710,
+                            639,
+                            620
+                        ],
+                        "all_points_y": [
+                            1046,
+                            1026,
+                            1017,
+                            1055,
+                            1112,
+                            1148,
+                            1167,
+                            1168,
+                            1113
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            495,
+                            523,
+                            555,
+                            577,
+                            577,
+                            566,
+                            535,
+                            503
+                        ],
+                        "all_points_y": [
+                            889,
+                            863,
+                            858,
+                            875,
+                            909,
+                            928,
+                            937,
+                            934
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "ICGI5520.JPG1224722": {
+            "filename": "ICGI5520.JPG",
+            "size": 1224722,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            591,
+                            606,
+                            658,
+                            736,
+                            771,
+                            778,
+                            778,
+                            758,
+                            680,
+                            628,
+                            597,
+                            593
+                        ],
+                        "all_points_y": [
+                            606,
+                            577,
+                            567,
+                            570,
+                            593,
+                            647,
+                            720,
+                            768,
+                            773,
+                            760,
+                            732,
+                            668
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            478,
+                            512,
+                            587,
+                            651,
+                            677,
+                            680,
+                            628,
+                            520,
+                            484
+                        ],
+                        "all_points_y": [
+                            912,
+                            877,
+                            873,
+                            871,
+                            950,
+                            1019,
+                            1053,
+                            1040,
+                            1011
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            343,
+                            348,
+                            377,
+                            418,
+                            426,
+                            426,
+                            402,
+                            371,
+                            349
+                        ],
+                        "all_points_y": [
+                            668,
+                            635,
+                            625,
+                            632,
+                            660,
+                            703,
+                            712,
+                            720,
+                            705
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "IHXE0801.JPG1240593": {
+            "filename": "IHXE0801.JPG",
+            "size": 1240593,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            764,
+                            800,
+                            863,
+                            921,
+                            936,
+                            935,
+                            909,
+                            825,
+                            778,
+                            761
+                        ],
+                        "all_points_y": [
+                            603,
+                            577,
+                            576,
+                            584,
+                            626,
+                            719,
+                            778,
+                            784,
+                            771,
+                            728
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            661,
+                            680,
+                            728,
+                            797,
+                            826,
+                            826,
+                            812,
+                            781,
+                            699,
+                            671
+                        ],
+                        "all_points_y": [
+                            907,
+                            868,
+                            861,
+                            864,
+                            892,
+                            970,
+                            1016,
+                            1032,
+                            1032,
+                            989
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            527,
+                            538,
+                            590,
+                            618,
+                            615,
+                            593,
+                            564,
+                            527
+                        ],
+                        "all_points_y": [
+                            674,
+                            638,
+                            635,
+                            664,
+                            700,
+                            731,
+                            732,
+                            717
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "IOVN0554.JPG1216282": {
+            "filename": "IOVN0554.JPG",
+            "size": 1216282,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            686,
+                            694,
+                            761,
+                            842,
+                            870,
+                            874,
+                            861,
+                            790,
+                            732,
+                            687
+                        ],
+                        "all_points_y": [
+                            645,
+                            586,
+                            561,
+                            577,
+                            603,
+                            684,
+                            763,
+                            776,
+                            770,
+                            745
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            561,
+                            587,
+                            729,
+                            755,
+                            748,
+                            703,
+                            590,
+                            558
+                        ],
+                        "all_points_y": [
+                            893,
+                            863,
+                            863,
+                            936,
+                            1006,
+                            1057,
+                            1045,
+                            976
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            431,
+                            458,
+                            495,
+                            518,
+                            515,
+                            483,
+                            449,
+                            423
+                        ],
+                        "all_points_y": [
+                            640,
+                            614,
+                            622,
+                            651,
+                            688,
+                            715,
+                            709,
+                            683
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "IXKI1720.JPG1236819": {
+            "filename": "IXKI1720.JPG",
+            "size": 1236819,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            605,
+                            681,
+                            755,
+                            780,
+                            765,
+                            744,
+                            642,
+                            599,
+                            590
+                        ],
+                        "all_points_y": [
+                            676,
+                            670,
+                            676,
+                            744,
+                            813,
+                            845,
+                            852,
+                            839,
+                            764
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            506,
+                            541,
+                            602,
+                            664,
+                            676,
+                            662,
+                            626,
+                            545,
+                            504
+                        ],
+                        "all_points_y": [
+                            970,
+                            944,
+                            932,
+                            944,
+                            1002,
+                            1070,
+                            1090,
+                            1097,
+                            1048
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            345,
+                            375,
+                            412,
+                            437,
+                            443,
+                            425,
+                            388,
+                            346
+                        ],
+                        "all_points_y": [
+                            758,
+                            737,
+                            740,
+                            763,
+                            798,
+                            823,
+                            826,
+                            812
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "IXOI3827.JPG1240847": {
+            "filename": "IXOI3827.JPG",
+            "size": 1240847,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            642,
+                            678,
+                            736,
+                            783,
+                            793,
+                            790,
+                            780,
+                            744,
+                            683,
+                            642,
+                            634
+                        ],
+                        "all_points_y": [
+                            761,
+                            742,
+                            747,
+                            760,
+                            800,
+                            857,
+                            903,
+                            925,
+                            923,
+                            913,
+                            854
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            545,
+                            565,
+                            600,
+                            681,
+                            700,
+                            703,
+                            686,
+                            671,
+                            629,
+                            574,
+                            547
+                        ],
+                        "all_points_y": [
+                            1015,
+                            996,
+                            994,
+                            993,
+                            1015,
+                            1070,
+                            1113,
+                            1137,
+                            1148,
+                            1148,
+                            1118
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            417,
+                            432,
+                            449,
+                            468,
+                            480,
+                            482,
+                            471,
+                            426
+                        ],
+                        "all_points_y": [
+                            829,
+                            811,
+                            806,
+                            808,
+                            825,
+                            843,
+                            872,
+                            877
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "JCKH7261.JPG1254334": {
+            "filename": "JCKH7261.JPG",
+            "size": 1254334,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            831,
+                            857,
+                            944,
+                            994,
+                            999,
+                            994,
+                            989,
+                            958,
+                            905,
+                            848,
+                            826
+                        ],
+                        "all_points_y": [
+                            619,
+                            577,
+                            573,
+                            590,
+                            636,
+                            699,
+                            744,
+                            767,
+                            773,
+                            764,
+                            678
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            710,
+                            749,
+                            850,
+                            892,
+                            890,
+                            892,
+                            858,
+                            777,
+                            726,
+                            716
+                        ],
+                        "all_points_y": [
+                            897,
+                            864,
+                            854,
+                            865,
+                            919,
+                            997,
+                            1028,
+                            1029,
+                            1022,
+                            960
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            589,
+                            608,
+                            635,
+                            677,
+                            677,
+                            671,
+                            640,
+                            611,
+                            597
+                        ],
+                        "all_points_y": [
+                            651,
+                            625,
+                            617,
+                            637,
+                            666,
+                            698,
+                            711,
+                            709,
+                            695
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "KBXU8740.JPG1258187": {
+            "filename": "KBXU8740.JPG",
+            "size": 1258187,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            419,
+                            439,
+                            503,
+                            560,
+                            584,
+                            576,
+                            567,
+                            503,
+                            442,
+                            425
+                        ],
+                        "all_points_y": [
+                            583,
+                            558,
+                            558,
+                            564,
+                            607,
+                            693,
+                            735,
+                            744,
+                            739,
+                            694
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            345,
+                            358,
+                            427,
+                            491,
+                            497,
+                            503,
+                            478,
+                            432,
+                            382,
+                            349,
+                            336
+                        ],
+                        "all_points_y": [
+                            854,
+                            831,
+                            828,
+                            836,
+                            887,
+                            951,
+                            973,
+                            976,
+                            973,
+                            965,
+                            911
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            206,
+                            220,
+                            266,
+                            295,
+                            300,
+                            292,
+                            271,
+                            228,
+                            208
+                        ],
+                        "all_points_y": [
+                            642,
+                            608,
+                            597,
+                            625,
+                            658,
+                            694,
+                            712,
+                            703,
+                            688
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "KCDJ8818.JPG1248296": {
+            "filename": "KCDJ8818.JPG",
+            "size": 1248296,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            625,
+                            654,
+                            702,
+                            751,
+                            778,
+                            778,
+                            774,
+                            764,
+                            729,
+                            681,
+                            648,
+                            629,
+                            616
+                        ],
+                        "all_points_y": [
+                            803,
+                            792,
+                            786,
+                            787,
+                            812,
+                            857,
+                            902,
+                            925,
+                            942,
+                            951,
+                            952,
+                            941,
+                            887
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            549,
+                            577,
+                            631,
+                            678,
+                            693,
+                            681,
+                            661,
+                            561,
+                            536
+                        ],
+                        "all_points_y": [
+                            1051,
+                            1032,
+                            1018,
+                            1025,
+                            1071,
+                            1141,
+                            1174,
+                            1184,
+                            1134
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            406,
+                            431,
+                            471,
+                            483,
+                            483,
+                            476,
+                            453,
+                            419,
+                            402
+                        ],
+                        "all_points_y": [
+                            886,
+                            857,
+                            868,
+                            886,
+                            914,
+                            935,
+                            949,
+                            946,
+                            919
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "KKDQ7839.JPG1254596": {
+            "filename": "KKDQ7839.JPG",
+            "size": 1254596,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            587,
+                            619,
+                            689,
+                            732,
+                            748,
+                            741,
+                            732,
+                            709,
+                            654,
+                            607,
+                            584,
+                            584
+                        ],
+                        "all_points_y": [
+                            786,
+                            761,
+                            754,
+                            767,
+                            786,
+                            835,
+                            892,
+                            907,
+                            913,
+                            925,
+                            903,
+                            855
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            518,
+                            541,
+                            623,
+                            652,
+                            655,
+                            636,
+                            541,
+                            496,
+                            500
+                        ],
+                        "all_points_y": [
+                            1005,
+                            984,
+                            976,
+                            1009,
+                            1073,
+                            1122,
+                            1125,
+                            1115,
+                            1050
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            345,
+                            371,
+                            417,
+                            426,
+                            428,
+                            428,
+                            395,
+                            357,
+                            345
+                        ],
+                        "all_points_y": [
+                            846,
+                            817,
+                            818,
+                            846,
+                            872,
+                            891,
+                            905,
+                            900,
+                            878
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "LFAX9915.JPG1208831": {
+            "filename": "LFAX9915.JPG",
+            "size": 1208831,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            619,
+                            647,
+                            694,
+                            747,
+                            765,
+                            778,
+                            776,
+                            767,
+                            751,
+                            707,
+                            664,
+                            622,
+                            615
+                        ],
+                        "all_points_y": [
+                            574,
+                            552,
+                            554,
+                            565,
+                            570,
+                            610,
+                            684,
+                            723,
+                            741,
+                            749,
+                            748,
+                            736,
+                            671
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            525,
+                            554,
+                            610,
+                            667,
+                            683,
+                            681,
+                            662,
+                            616,
+                            548,
+                            522,
+                            512
+                        ],
+                        "all_points_y": [
+                            845,
+                            826,
+                            821,
+                            826,
+                            867,
+                            929,
+                            974,
+                            987,
+                            990,
+                            967,
+                            913
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            375,
+                            406,
+                            458,
+                            472,
+                            463,
+                            435,
+                            398,
+                            377
+                        ],
+                        "all_points_y": [
+                            634,
+                            600,
+                            611,
+                            651,
+                            682,
+                            697,
+                            691,
+                            675
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "LRAP2548.JPG1286316": {
+            "filename": "LRAP2548.JPG",
+            "size": 1286316,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            462,
+                            491,
+                            549,
+                            597,
+                            619,
+                            616,
+                            615,
+                            586,
+                            506,
+                            471,
+                            458
+                        ],
+                        "all_points_y": [
+                            749,
+                            725,
+                            735,
+                            749,
+                            790,
+                            844,
+                            892,
+                            903,
+                            894,
+                            877,
+                            825
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            412,
+                            461,
+                            519,
+                            548,
+                            545,
+                            544,
+                            516,
+                            451,
+                            425,
+                            412
+                        ],
+                        "all_points_y": [
+                            961,
+                            954,
+                            961,
+                            977,
+                            1048,
+                            1071,
+                            1086,
+                            1086,
+                            1074,
+                            1032
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            291,
+                            311,
+                            349,
+                            357,
+                            351,
+                            335,
+                            311,
+                            289
+                        ],
+                        "all_points_y": [
+                            780,
+                            752,
+                            758,
+                            782,
+                            812,
+                            826,
+                            823,
+                            802
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "MCCZ9059.JPG1208499": {
+            "filename": "MCCZ9059.JPG",
+            "size": 1208499,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            689,
+                            726,
+                            802,
+                            857,
+                            873,
+                            868,
+                            857,
+                            803,
+                            752,
+                            702,
+                            681
+                        ],
+                        "all_points_y": [
+                            748,
+                            722,
+                            716,
+                            726,
+                            780,
+                            858,
+                            905,
+                            926,
+                            921,
+                            915,
+                            854
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            583,
+                            622,
+                            694,
+                            767,
+                            778,
+                            771,
+                            747,
+                            696,
+                            631,
+                            589
+                        ],
+                        "all_points_y": [
+                            1008,
+                            990,
+                            987,
+                            996,
+                            1038,
+                            1113,
+                            1147,
+                            1158,
+                            1151,
+                            1134
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            449,
+                            485,
+                            526,
+                            537,
+                            534,
+                            514,
+                            460
+                        ],
+                        "all_points_y": [
+                            818,
+                            791,
+                            795,
+                            822,
+                            852,
+                            866,
+                            863
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "MNKA9347.JPG1280824": {
+            "filename": "MNKA9347.JPG",
+            "size": 1280824,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            587,
+                            613,
+                            693,
+                            748,
+                            776,
+                            764,
+                            752,
+                            686,
+                            632,
+                            589,
+                            581
+                        ],
+                        "all_points_y": [
+                            826,
+                            803,
+                            797,
+                            800,
+                            835,
+                            913,
+                            951,
+                            970,
+                            970,
+                            958,
+                            889
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            515,
+                            536,
+                            591,
+                            639,
+                            667,
+                            664,
+                            658,
+                            629,
+                            557,
+                            522,
+                            513
+                        ],
+                        "all_points_y": [
+                            1066,
+                            1042,
+                            1039,
+                            1042,
+                            1074,
+                            1121,
+                            1164,
+                            1181,
+                            1183,
+                            1173,
+                            1126
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            365,
+                            389,
+                            434,
+                            448,
+                            442,
+                            414,
+                            389,
+                            369
+                        ],
+                        "all_points_y": [
+                            898,
+                            872,
+                            874,
+                            903,
+                            945,
+                            960,
+                            960,
+                            937
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "MSJK9116.JPG1265033": {
+            "filename": "MSJK9116.JPG",
+            "size": 1265033,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            523,
+                            555,
+                            625,
+                            684,
+                            709,
+                            709,
+                            693,
+                            644,
+                            567,
+                            522,
+                            515
+                        ],
+                        "all_points_y": [
+                            658,
+                            638,
+                            638,
+                            649,
+                            684,
+                            776,
+                            834,
+                            851,
+                            845,
+                            819,
+                            738
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            444,
+                            477,
+                            561,
+                            618,
+                            622,
+                            619,
+                            584,
+                            507,
+                            460,
+                            442
+                        ],
+                        "all_points_y": [
+                            913,
+                            890,
+                            889,
+                            910,
+                            976,
+                            1048,
+                            1076,
+                            1067,
+                            1052,
+                            984
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            305,
+                            326,
+                            355,
+                            383,
+                            380,
+                            372,
+                            351,
+                            314,
+                            305
+                        ],
+                        "all_points_y": [
+                            714,
+                            694,
+                            695,
+                            708,
+                            748,
+                            769,
+                            772,
+                            768,
+                            745
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "MYFZ9358.JPG1239572": {
+            "filename": "MYFZ9358.JPG",
+            "size": 1239572,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            578,
+                            607,
+                            674,
+                            728,
+                            763,
+                            747,
+                            729,
+                            632,
+                            593,
+                            581
+                        ],
+                        "all_points_y": [
+                            662,
+                            642,
+                            645,
+                            657,
+                            710,
+                            784,
+                            832,
+                            831,
+                            816,
+                            749
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            516,
+                            561,
+                            622,
+                            658,
+                            668,
+                            674,
+                            670,
+                            618,
+                            552,
+                            532,
+                            519
+                        ],
+                        "all_points_y": [
+                            889,
+                            867,
+                            870,
+                            881,
+                            922,
+                            993,
+                            1045,
+                            1058,
+                            1044,
+                            1029,
+                            963
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            398,
+                            418,
+                            446,
+                            468,
+                            471,
+                            468,
+                            442,
+                            415,
+                            405
+                        ],
+                        "all_points_y": [
+                            706,
+                            683,
+                            686,
+                            703,
+                            732,
+                            752,
+                            755,
+                            751,
+                            729
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "NMMU3634.JPG1281015": {
+            "filename": "NMMU3634.JPG",
+            "size": 1281015,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            387,
+                            413,
+                            487,
+                            552,
+                            565,
+                            568,
+                            560,
+                            525,
+                            464,
+                            409,
+                            393
+                        ],
+                        "all_points_y": [
+                            690,
+                            661,
+                            654,
+                            665,
+                            715,
+                            792,
+                            836,
+                            852,
+                            848,
+                            842,
+                            767
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            329,
+                            348,
+                            435,
+                            474,
+                            496,
+                            490,
+                            467,
+                            362,
+                            335
+                        ],
+                        "all_points_y": [
+                            944,
+                            909,
+                            903,
+                            923,
+                            968,
+                            1034,
+                            1068,
+                            1074,
+                            1028
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            189,
+                            197,
+                            229,
+                            251,
+                            252,
+                            249,
+                            223,
+                            191
+                        ],
+                        "all_points_y": [
+                            751,
+                            720,
+                            717,
+                            732,
+                            765,
+                            788,
+                            794,
+                            782
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "OITA9030.JPG1224666": {
+            "filename": "OITA9030.JPG",
+            "size": 1224666,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            581,
+                            609,
+                            664,
+                            731,
+                            763,
+                            777,
+                            771,
+                            764,
+                            729,
+                            655,
+                            607,
+                            584
+                        ],
+                        "all_points_y": [
+                            812,
+                            777,
+                            770,
+                            777,
+                            786,
+                            842,
+                            902,
+                            935,
+                            954,
+                            961,
+                            951,
+                            893
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            501,
+                            545,
+                            653,
+                            687,
+                            692,
+                            672,
+                            630,
+                            559,
+                            514,
+                            497
+                        ],
+                        "all_points_y": [
+                            1039,
+                            1017,
+                            1020,
+                            1057,
+                            1120,
+                            1165,
+                            1183,
+                            1177,
+                            1165,
+                            1101
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            346,
+                            358,
+                            389,
+                            422,
+                            434,
+                            438,
+                            426,
+                            400,
+                            366,
+                            349
+                        ],
+                        "all_points_y": [
+                            872,
+                            846,
+                            835,
+                            845,
+                            868,
+                            897,
+                            912,
+                            923,
+                            923,
+                            908
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "OKPP0977.JPG1196892": {
+            "filename": "OKPP0977.JPG",
+            "size": 1196892,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            699,
+                            718,
+                            789,
+                            850,
+                            885,
+                            893,
+                            885,
+                            869,
+                            809,
+                            727,
+                            698
+                        ],
+                        "all_points_y": [
+                            774,
+                            736,
+                            725,
+                            722,
+                            751,
+                            813,
+                            878,
+                            925,
+                            932,
+                            929,
+                            862
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            616,
+                            652,
+                            718,
+                            773,
+                            796,
+                            797,
+                            792,
+                            771,
+                            694,
+                            635,
+                            616
+                        ],
+                        "all_points_y": [
+                            1024,
+                            996,
+                            986,
+                            989,
+                            1016,
+                            1083,
+                            1144,
+                            1164,
+                            1170,
+                            1169,
+                            1103
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            486,
+                            503,
+                            534,
+                            555,
+                            557,
+                            545,
+                            514,
+                            491
+                        ],
+                        "all_points_y": [
+                            846,
+                            820,
+                            815,
+                            837,
+                            872,
+                            888,
+                            895,
+                            874
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "PDKY5601.JPG1198425": {
+            "filename": "PDKY5601.JPG",
+            "size": 1198425,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            816,
+                            844,
+                            916,
+                            971,
+                            1006,
+                            1021,
+                            1009,
+                            994,
+                            928,
+                            858,
+                            828,
+                            809
+                        ],
+                        "all_points_y": [
+                            625,
+                            583,
+                            578,
+                            590,
+                            615,
+                            670,
+                            741,
+                            778,
+                            796,
+                            793,
+                            770,
+                            728
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            716,
+                            745,
+                            807,
+                            867,
+                            899,
+                            905,
+                            890,
+                            870,
+                            812,
+                            742,
+                            713
+                        ],
+                        "all_points_y": [
+                            894,
+                            867,
+                            860,
+                            870,
+                            897,
+                            968,
+                            1016,
+                            1044,
+                            1045,
+                            1044,
+                            987
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            583,
+                            608,
+                            637,
+                            663,
+                            672,
+                            649,
+                            618,
+                            588,
+                            586
+                        ],
+                        "all_points_y": [
+                            663,
+                            638,
+                            638,
+                            648,
+                            691,
+                            720,
+                            722,
+                            717,
+                            695
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "PGTS9603.JPG1312339": {
+            "filename": "PGTS9603.JPG",
+            "size": 1312339,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            429,
+                            445,
+                            494,
+                            560,
+                            587,
+                            605,
+                            605,
+                            583,
+                            533,
+                            480,
+                            436,
+                            426
+                        ],
+                        "all_points_y": [
+                            767,
+                            736,
+                            738,
+                            749,
+                            771,
+                            823,
+                            878,
+                            915,
+                            913,
+                            903,
+                            890,
+                            821
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            371,
+                            386,
+                            441,
+                            497,
+                            522,
+                            528,
+                            526,
+                            460,
+                            396,
+                            377
+                        ],
+                        "all_points_y": [
+                            997,
+                            954,
+                            954,
+                            961,
+                            1005,
+                            1060,
+                            1100,
+                            1106,
+                            1097,
+                            1057
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            268,
+                            285,
+                            308,
+                            328,
+                            328,
+                            328,
+                            312,
+                            291,
+                            268
+                        ],
+                        "all_points_y": [
+                            780,
+                            763,
+                            762,
+                            777,
+                            802,
+                            820,
+                            832,
+                            828,
+                            815
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "QUGE1614.JPG1179323": {
+            "filename": "QUGE1614.JPG",
+            "size": 1179323,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            654,
+                            673,
+                            749,
+                            825,
+                            848,
+                            854,
+                            842,
+                            819,
+                            723,
+                            674,
+                            658
+                        ],
+                        "all_points_y": [
+                            625,
+                            593,
+                            587,
+                            594,
+                            641,
+                            719,
+                            774,
+                            800,
+                            792,
+                            781,
+                            709
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            539,
+                            577,
+                            635,
+                            702,
+                            731,
+                            738,
+                            739,
+                            729,
+                            705,
+                            639,
+                            568,
+                            533
+                        ],
+                        "all_points_y": [
+                            910,
+                            876,
+                            871,
+                            881,
+                            907,
+                            950,
+                            1002,
+                            1038,
+                            1055,
+                            1057,
+                            1060,
+                            1018
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            408,
+                            418,
+                            491,
+                            492,
+                            502,
+                            489,
+                            455,
+                            417
+                        ],
+                        "all_points_y": [
+                            688,
+                            640,
+                            643,
+                            671,
+                            708,
+                            735,
+                            734,
+                            731
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "RRAX6056.JPG1258884": {
+            "filename": "RRAX6056.JPG",
+            "size": 1258884,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            487,
+                            493,
+                            548,
+                            619,
+                            657,
+                            642,
+                            625,
+                            568,
+                            500
+                        ],
+                        "all_points_y": [
+                            809,
+                            735,
+                            734,
+                            742,
+                            776,
+                            854,
+                            890,
+                            889,
+                            876
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            425,
+                            480,
+                            547,
+                            558,
+                            567,
+                            549,
+                            515,
+                            457,
+                            422
+                        ],
+                        "all_points_y": [
+                            970,
+                            957,
+                            963,
+                            990,
+                            1057,
+                            1081,
+                            1100,
+                            1090,
+                            1054
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            263,
+                            282,
+                            309,
+                            335,
+                            338,
+                            343,
+                            332,
+                            303,
+                            277
+                        ],
+                        "all_points_y": [
+                            806,
+                            774,
+                            774,
+                            774,
+                            797,
+                            825,
+                            838,
+                            845,
+                            838
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "RVGL7289.JPG1298177": {
+            "filename": "RVGL7289.JPG",
+            "size": 1298177,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            543,
+                            574,
+                            627,
+                            707,
+                            717,
+                            706,
+                            688,
+                            614,
+                            568
+                        ],
+                        "all_points_y": [
+                            777,
+                            751,
+                            748,
+                            769,
+                            820,
+                            887,
+                            900,
+                            897,
+                            893
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            462,
+                            512,
+                            574,
+                            635,
+                            636,
+                            629,
+                            594,
+                            542,
+                            480
+                        ],
+                        "all_points_y": [
+                            1002,
+                            970,
+                            974,
+                            998,
+                            1046,
+                            1098,
+                            1105,
+                            1114,
+                            1090
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            320,
+                            338,
+                            378,
+                            403,
+                            400,
+                            386,
+                            354,
+                            326
+                        ],
+                        "all_points_y": [
+                            832,
+                            798,
+                            795,
+                            822,
+                            840,
+                            865,
+                            871,
+                            860
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "SGKQ5161.JPG1272975": {
+            "filename": "SGKQ5161.JPG",
+            "size": 1272975,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            515,
+                            562,
+                            660,
+                            735,
+                            735,
+                            731,
+                            718,
+                            676,
+                            628,
+                            548,
+                            523
+                        ],
+                        "all_points_y": [
+                            690,
+                            648,
+                            652,
+                            681,
+                            731,
+                            793,
+                            845,
+                            857,
+                            860,
+                            854,
+                            776
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            444,
+                            480,
+                            564,
+                            619,
+                            626,
+                            619,
+                            571,
+                            465
+                        ],
+                        "all_points_y": [
+                            945,
+                            918,
+                            923,
+                            947,
+                            1032,
+                            1084,
+                            1108,
+                            1081
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            294,
+                            315,
+                            357,
+                            374,
+                            378,
+                            378,
+                            349,
+                            302
+                        ],
+                        "all_points_y": [
+                            742,
+                            706,
+                            706,
+                            720,
+                            754,
+                            778,
+                            786,
+                            780
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "SHWJ0338.JPG1269266": {
+            "filename": "SHWJ0338.JPG",
+            "size": 1269266,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            580,
+                            605,
+                            693,
+                            738,
+                            741,
+                            741,
+                            726,
+                            693,
+                            648,
+                            600,
+                            573
+                        ],
+                        "all_points_y": [
+                            818,
+                            786,
+                            777,
+                            780,
+                            832,
+                            890,
+                            916,
+                            935,
+                            944,
+                            947,
+                            931
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            499,
+                            544,
+                            609,
+                            636,
+                            639,
+                            636,
+                            586,
+                            525,
+                            506
+                        ],
+                        "all_points_y": [
+                            1058,
+                            1026,
+                            1009,
+                            1028,
+                            1076,
+                            1128,
+                            1155,
+                            1173,
+                            1119
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            355,
+                            378,
+                            423,
+                            435,
+                            435,
+                            422,
+                            397,
+                            362
+                        ],
+                        "all_points_y": [
+                            889,
+                            863,
+                            862,
+                            886,
+                            914,
+                            931,
+                            931,
+                            929
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "UJDG8161.JPG1209310": {
+            "filename": "UJDG8161.JPG",
+            "size": 1209310,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            487,
+                            499,
+                            547,
+                            615,
+                            669,
+                            684,
+                            683,
+                            679,
+                            606,
+                            541,
+                            493
+                        ],
+                        "all_points_y": [
+                            620,
+                            584,
+                            565,
+                            565,
+                            587,
+                            626,
+                            709,
+                            771,
+                            780,
+                            771,
+                            749
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            372,
+                            417,
+                            539,
+                            585,
+                            578,
+                            572,
+                            542,
+                            470,
+                            408,
+                            384
+                        ],
+                        "all_points_y": [
+                            873,
+                            839,
+                            844,
+                            894,
+                            957,
+                            1020,
+                            1044,
+                            1057,
+                            1043,
+                            1011
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            226,
+                            240,
+                            269,
+                            308,
+                            328,
+                            335,
+                            325,
+                            303,
+                            252,
+                            232
+                        ],
+                        "all_points_y": [
+                            646,
+                            615,
+                            603,
+                            606,
+                            623,
+                            663,
+                            689,
+                            708,
+                            703,
+                            686
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "ULEF2330.JPG1243469": {
+            "filename": "ULEF2330.JPG",
+            "size": 1243469,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            430,
+                            448,
+                            533,
+                            590,
+                            623,
+                            615,
+                            612,
+                            603,
+                            554,
+                            480,
+                            438,
+                            428
+                        ],
+                        "all_points_y": [
+                            731,
+                            689,
+                            673,
+                            689,
+                            707,
+                            778,
+                            829,
+                            869,
+                            875,
+                            883,
+                            861,
+                            804
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            338,
+                            374,
+                            464,
+                            506,
+                            522,
+                            519,
+                            497,
+                            433,
+                            375,
+                            343
+                        ],
+                        "all_points_y": [
+                            990,
+                            945,
+                            940,
+                            952,
+                            998,
+                            1059,
+                            1094,
+                            1113,
+                            1107,
+                            1074
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            188,
+                            200,
+                            223,
+                            251,
+                            282,
+                            288,
+                            285,
+                            263,
+                            229,
+                            197
+                        ],
+                        "all_points_y": [
+                            789,
+                            760,
+                            752,
+                            751,
+                            755,
+                            786,
+                            811,
+                            840,
+                            845,
+                            835
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "UYGR1662.JPG1193491": {
+            "filename": "UYGR1662.JPG",
+            "size": 1193491,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            561,
+                            594,
+                            678,
+                            738,
+                            758,
+                            764,
+                            758,
+                            747,
+                            702,
+                            639,
+                            586,
+                            551,
+                            541
+                        ],
+                        "all_points_y": [
+                            709,
+                            680,
+                            686,
+                            691,
+                            731,
+                            790,
+                            844,
+                            881,
+                            897,
+                            890,
+                            889,
+                            870,
+                            781
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            451,
+                            486,
+                            573,
+                            627,
+                            650,
+                            659,
+                            654,
+                            646,
+                            607,
+                            523,
+                            472,
+                            454
+                        ],
+                        "all_points_y": [
+                            1003,
+                            965,
+                            958,
+                            972,
+                            1006,
+                            1062,
+                            1100,
+                            1132,
+                            1142,
+                            1144,
+                            1132,
+                            1065
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            312,
+                            328,
+                            355,
+                            383,
+                            389,
+                            385,
+                            349,
+                            323
+                        ],
+                        "all_points_y": [
+                            785,
+                            757,
+                            749,
+                            762,
+                            795,
+                            812,
+                            826,
+                            814
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "UYLF9038.JPG1195056": {
+            "filename": "UYLF9038.JPG",
+            "size": 1195056,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            288,
+                            316,
+                            383,
+                            452,
+                            491,
+                            496,
+                            489,
+                            457,
+                            373,
+                            325,
+                            290
+                        ],
+                        "all_points_y": [
+                            567,
+                            526,
+                            525,
+                            531,
+                            549,
+                            619,
+                            699,
+                            732,
+                            735,
+                            734,
+                            658
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            196,
+                            247,
+                            358,
+                            406,
+                            402,
+                            399,
+                            329,
+                            242,
+                            197
+                        ],
+                        "all_points_y": [
+                            824,
+                            792,
+                            796,
+                            830,
+                            909,
+                            983,
+                            1006,
+                            992,
+                            921
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            72,
+                            83,
+                            137,
+                            160,
+                            165,
+                            154,
+                            117,
+                            88
+                        ],
+                        "all_points_y": [
+                            626,
+                            594,
+                            583,
+                            608,
+                            643,
+                            665,
+                            675,
+                            658
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "WOPN7815.JPG1228052": {
+            "filename": "WOPN7815.JPG",
+            "size": 1228052,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            652,
+                            670,
+                            734,
+                            805,
+                            823,
+                            825,
+                            822,
+                            823,
+                            783,
+                            720,
+                            668,
+                            648
+                        ],
+                        "all_points_y": [
+                            542,
+                            503,
+                            487,
+                            500,
+                            525,
+                            571,
+                            628,
+                            668,
+                            690,
+                            693,
+                            686,
+                            626
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            545,
+                            590,
+                            689,
+                            722,
+                            730,
+                            719,
+                            683,
+                            622,
+                            558,
+                            538
+                        ],
+                        "all_points_y": [
+                            807,
+                            781,
+                            783,
+                            799,
+                            846,
+                            929,
+                            952,
+                            964,
+                            945,
+                            868
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            398,
+                            425,
+                            462,
+                            486,
+                            485,
+                            477,
+                            434,
+                            411
+                        ],
+                        "all_points_y": [
+                            588,
+                            554,
+                            554,
+                            575,
+                            609,
+                            626,
+                            634,
+                            611
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "WQKI9131.JPG1226335": {
+            "filename": "WQKI9131.JPG",
+            "size": 1226335,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            690,
+                            712,
+                            813,
+                            852,
+                            861,
+                            865,
+                            861,
+                            832,
+                            771,
+                            720,
+                            691
+                        ],
+                        "all_points_y": [
+                            803,
+                            758,
+                            755,
+                            764,
+                            805,
+                            858,
+                            899,
+                            922,
+                            929,
+                            932,
+                            896
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            609,
+                            641,
+                            710,
+                            763,
+                            777,
+                            778,
+                            763,
+                            726,
+                            642,
+                            613
+                        ],
+                        "all_points_y": [
+                            1041,
+                            1003,
+                            996,
+                            1005,
+                            1034,
+                            1089,
+                            1123,
+                            1152,
+                            1155,
+                            1139
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            451,
+                            468,
+                            492,
+                            525,
+                            540,
+                            538,
+                            512,
+                            488,
+                            463
+                        ],
+                        "all_points_y": [
+                            871,
+                            840,
+                            831,
+                            840,
+                            869,
+                            889,
+                            909,
+                            908,
+                            902
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "WTCT9600.JPG1285611": {
+            "filename": "WTCT9600.JPG",
+            "size": 1285611,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            773,
+                            805,
+                            887,
+                            925,
+                            939,
+                            942,
+                            938,
+                            906,
+                            822,
+                            777
+                        ],
+                        "all_points_y": [
+                            789,
+                            747,
+                            748,
+                            752,
+                            783,
+                            871,
+                            906,
+                            925,
+                            934,
+                            916
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            696,
+                            719,
+                            797,
+                            841,
+                            852,
+                            854,
+                            823,
+                            765,
+                            703
+                        ],
+                        "all_points_y": [
+                            1039,
+                            1010,
+                            1002,
+                            1013,
+                            1055,
+                            1115,
+                            1148,
+                            1152,
+                            1151
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            562,
+                            577,
+                            620,
+                            649,
+                            643,
+                            628,
+                            583,
+                            558
+                        ],
+                        "all_points_y": [
+                            834,
+                            806,
+                            812,
+                            828,
+                            866,
+                            895,
+                            894,
+                            868
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "XUST7839.JPG1256619": {
+            "filename": "XUST7839.JPG",
+            "size": 1256619,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            520,
+                            545,
+                            605,
+                            690,
+                            713,
+                            720,
+                            726,
+                            728,
+                            706,
+                            668,
+                            586,
+                            542,
+                            523
+                        ],
+                        "all_points_y": [
+                            715,
+                            687,
+                            678,
+                            683,
+                            696,
+                            734,
+                            781,
+                            832,
+                            877,
+                            883,
+                            880,
+                            878,
+                            803
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            436,
+                            496,
+                            574,
+                            619,
+                            623,
+                            610,
+                            560,
+                            480,
+                            448
+                        ],
+                        "all_points_y": [
+                            979,
+                            954,
+                            950,
+                            984,
+                            1064,
+                            1126,
+                            1129,
+                            1132,
+                            1112
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            282,
+                            297,
+                            334,
+                            352,
+                            358,
+                            348,
+                            315,
+                            291
+                        ],
+                        "all_points_y": [
+                            778,
+                            749,
+                            748,
+                            771,
+                            795,
+                            815,
+                            822,
+                            812
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "XVLW5909.JPG1280307": {
+            "filename": "XVLW5909.JPG",
+            "size": 1280307,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            487,
+                            509,
+                            585,
+                            635,
+                            653,
+                            654,
+                            648,
+                            618,
+                            574,
+                            538,
+                            496,
+                            482
+                        ],
+                        "all_points_y": [
+                            766,
+                            723,
+                            720,
+                            744,
+                            791,
+                            846,
+                            882,
+                            905,
+                            901,
+                            891,
+                            876,
+                            820
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            435,
+                            474,
+                            536,
+                            568,
+                            580,
+                            580,
+                            549,
+                            483,
+                            449,
+                            433
+                        ],
+                        "all_points_y": [
+                            955,
+                            936,
+                            941,
+                            963,
+                            1012,
+                            1063,
+                            1084,
+                            1089,
+                            1074,
+                            1023
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            300,
+                            318,
+                            349,
+                            372,
+                            377,
+                            377,
+                            358,
+                            314
+                        ],
+                        "all_points_y": [
+                            775,
+                            746,
+                            746,
+                            762,
+                            789,
+                            809,
+                            818,
+                            815
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "XWEO0186.JPG1255670": {
+            "filename": "XWEO0186.JPG",
+            "size": 1255670,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            384,
+                            396,
+                            419,
+                            477,
+                            523,
+                            561,
+                            564,
+                            557,
+                            561,
+                            570,
+                            535,
+                            460,
+                            426,
+                            403,
+                            396
+                        ],
+                        "all_points_y": [
+                            562,
+                            522,
+                            509,
+                            502,
+                            509,
+                            533,
+                            567,
+                            605,
+                            647,
+                            689,
+                            703,
+                            702,
+                            702,
+                            689,
+                            651
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            300,
+                            317,
+                            370,
+                            433,
+                            465,
+                            484,
+                            484,
+                            471,
+                            445,
+                            386,
+                            310
+                        ],
+                        "all_points_y": [
+                            818,
+                            783,
+                            773,
+                            771,
+                            778,
+                            844,
+                            893,
+                            942,
+                            963,
+                            968,
+                            942
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            169,
+                            185,
+                            220,
+                            252,
+                            255,
+                            246,
+                            217,
+                            175
+                        ],
+                        "all_points_y": [
+                            609,
+                            578,
+                            569,
+                            583,
+                            615,
+                            637,
+                            652,
+                            642
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "YGUT1778.JPG1245482": {
+            "filename": "YGUT1778.JPG",
+            "size": 1245482,
+            "regions": [{
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            399,
+                            412,
+                            448,
+                            528,
+                            573,
+                            580,
+                            578,
+                            571,
+                            533,
+                            454,
+                            416,
+                            400
+                        ],
+                        "all_points_y": [
+                            803,
+                            770,
+                            758,
+                            765,
+                            780,
+                            832,
+                            892,
+                            923,
+                            934,
+                            926,
+                            919,
+                            877
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "High Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            338,
+                            355,
+                            416,
+                            464,
+                            497,
+                            507,
+                            483,
+                            426,
+                            370,
+                            345
+                        ],
+                        "all_points_y": [
+                            1023,
+                            994,
+                            990,
+                            994,
+                            1029,
+                            1092,
+                            1122,
+                            1126,
+                            1129,
+                            1093
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            182,
+                            208,
+                            260,
+                            268,
+                            269,
+                            243,
+                            200
+                        ],
+                        "all_points_y": [
+                            835,
+                            805,
+                            802,
+                            838,
+                            869,
+                            882,
+                            877
+                        ]
+                    },
+                    "region_attributes": {
+                        "Damage": "Low Temp"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Damage": {
+                "type": "dropdown",
+                "description": "",
+                "options": {
+                    "High Temp": "",
+                    "Low Temp": ""
+                },
+                "default_options": {}
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "BDCB2668.JPG1199282",
+        "BPZP2650.JPG1329017",
+        "CBPN5287.JPG1263075",
+        "CUXF7568.JPG1289563",
+        "DJZR2335.JPG1255849",
+        "DTEQ0974.JPG1212961",
+        "EAOT1795.JPG1210788",
+        "EMGT1594.JPG1265286",
+        "FIKX6943.JPG1202934",
+        "GQLO7587.JPG1235303",
+        "GWYU5940.JPG1139349",
+        "GXFF6672.JPG1188114",
+        "HBSD9108.JPG1200437",
+        "HFID2445.JPG1220696",
+        "HGXB4133.JPG1262358",
+        "HYNO0900.JPG1181506",
+        "ICGI5520.JPG1224722",
+        "IHXE0801.JPG1240593",
+        "IOVN0554.JPG1216282",
+        "IXKI1720.JPG1236819",
+        "IXOI3827.JPG1240847",
+        "JCKH7261.JPG1254334",
+        "KBXU8740.JPG1258187",
+        "KCDJ8818.JPG1248296",
+        "KKDQ7839.JPG1254596",
+        "LFAX9915.JPG1208831",
+        "LRAP2548.JPG1286316",
+        "MCCZ9059.JPG1208499",
+        "MNKA9347.JPG1280824",
+        "MSJK9116.JPG1265033",
+        "MYFZ9358.JPG1239572",
+        "NMMU3634.JPG1281015",
+        "OITA9030.JPG1224666",
+        "OKPP0977.JPG1196892",
+        "PDKY5601.JPG1198425",
+        "PGTS9603.JPG1312339",
+        "QUGE1614.JPG1179323",
+        "RRAX6056.JPG1258884",
+        "RVGL7289.JPG1298177",
+        "SGKQ5161.JPG1272975",
+        "SHWJ0338.JPG1269266",
+        "UJDG8161.JPG1209310",
+        "ULEF2330.JPG1243469",
+        "UYGR1662.JPG1193491",
+        "UYLF9038.JPG1195056",
+        "WOPN7815.JPG1228052",
+        "WQKI9131.JPG1226335",
+        "WTCT9600.JPG1285611",
+        "XUST7839.JPG1256619",
+        "XVLW5909.JPG1280307",
+        "XWEO0186.JPG1255670",
+        "YGUT1778.JPG1245482"
+    ]
+}
