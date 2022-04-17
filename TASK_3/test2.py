@@ -3,9 +3,8 @@ from cv2 import drawContours
 import numpy as np
 from draw_contours import getContours
 import matplotlib.pyplot as plt
-from PIL import Image
 
-src_img = cv2.imread("TASK_2/Science_irhand.jpg")
+src_img = cv2.imread("TASK_3/Image2.jpg")
 
 correct_gray = cv2.cvtColor(src_img, cv2.COLOR_BGR2LUV)
 imgContoor = correct_gray.copy()

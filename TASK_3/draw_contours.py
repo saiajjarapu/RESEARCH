@@ -5,7 +5,7 @@ def getContours(img, imgContour):
     black = (0,0,0)
     for c in contours:
         area = cv2.contourArea(c)
-        if 900 < area < 6000:
+        if 900 < area < 5800:
             cv2.drawContours(imgContour, c, -1, black, 2)
             p = cv2.arcLength(c, True)
             appr = cv2.approxPolyDP(c, 0.02 * p, True)
