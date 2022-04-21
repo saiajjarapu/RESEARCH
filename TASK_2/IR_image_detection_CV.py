@@ -15,9 +15,11 @@ img_path = os.path.join(WORK_DIR, "Science_irhand.jpg") # CHANGE THE SECOND PARA
 src_img = cv2.imread(img_path)
 imgContour = src_img.copy()
 
-# CONVERTING SOURCE IMAGE TO HSV AND GRAY COLOR SPACES
-imghsv = cv2.cvtColor(src_img, cv2.COLOR_BGR2HSV)
-imgGray = cv2.cvtColor(src_img, cv2.COLOR_BGR2GRAY)
+# BLUR THE SOURCE IMAGE TO REMOVE NOISE
+imgBlur = cv2.GaussianBlur(src_img, (5, 5), 1)
+
+# CONVERTING SOURCE IMAGE TO HSV COLOR SPACES
+imghsv = cv2.cvtColor(imgBlur, cv2.COLOR_BGR2HSV)
 
 # EXTRACTING THE LOWER AND UPPER THRESHOLD VALUES FOR THE AREAS OF INTEREST
 heat_min = np.array([5, 50, 50], np.uint8)
